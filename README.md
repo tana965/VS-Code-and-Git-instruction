@@ -1,2 +1,1 @@
-lflflflf
-![Uploading image.png…]()
+![alt text](http://url/to/img.png)

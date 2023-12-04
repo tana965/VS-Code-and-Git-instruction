@@ -1,7 +1,7 @@
 `Инструкция по установке VS code и работа с Git`
 =====================
 **1.** Перейдите на официальный сайт и скачайте приложение, выберите нужный вариант на Windows,macOS, Linux.
-[code.visualstudio.com]([http://sabaka.net](https://code.visualstudio.com/))
+[code.visualstudio.com](https://code.visualstudio.com/)
 
 Принимаем соглашения, ставим везде галочки и устанавливаем.
 ---

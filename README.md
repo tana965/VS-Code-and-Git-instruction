@@ -19,8 +19,7 @@ https://git-scm.com/downloads
 ![image](https://github.com/tana965/readme/assets/123296012/61a462f6-3426-4824-bb3b-c6e0b17296f8)
 ---
 **6.** Создаём коммит и нажимаем "фиксация".
----
- ![image](https://github.com/tana965/readme/assets/123296012/2b3a3175-6068-4be9-a812-3a65615c8dd1)
+---![image](https://github.com/tana965/readme/assets/123296012/2b3a3175-6068-4be9-a812-3a65615c8dd1)
 ---
 **7.** Создаём репозиторий на Github. Нажимаем на три точки сверху строки ввода -> Удалнный->Добавить удалённый репозиторий -> и вставляете ссылку вашего реопзитория с Github-> напишите имя удалённого репозитория origin.
  ![image](https://github.com/tana965/readme/assets/123296012/10cd3dfe-0d12-499d-a9af-c2a78408f26b)
